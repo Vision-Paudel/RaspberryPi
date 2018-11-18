@@ -1,2 +1,2 @@
 # RaspberryPi
-IoT device version 0
+IoT device version 1
