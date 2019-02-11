@@ -1,3 +1,2 @@
 # RaspberryPi
-IoT device version 1
-Does not include the LinuxServer.pem
+IoT device version 2
