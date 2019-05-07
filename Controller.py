@@ -18,7 +18,6 @@ break
 f.write("echo \"use raspberrypi\" > runnable.sql\n") # change to your database name.
 f.write("echo \"INSERT INTO SensorData (Time, Temperature, Humidity, Light) VALUES (NOW()," + str(t) + ", " + str(h) + ", " + str(c) + ");\" >> runnable.sql\n")
 f.write("echo \"quit\" >> runnable.sql\n")
-f.write("h" + str(t) + ", " + str(h) + ", " + str(c) + ");\" >> runnable.sql\n")
 f.write("echo mysql -u raspberrypi -p mypassword < runnable.sql'\n")
 f.write("exit")
 f.close() # Close file.
