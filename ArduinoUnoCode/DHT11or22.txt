@@ -1,2 +1,0 @@
-Library can be installed directly from Arduino IDE or from here:
-https://github.com/adafruit/DHT-sensor-library
