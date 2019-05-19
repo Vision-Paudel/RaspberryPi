@@ -5,4 +5,4 @@ I used Arduino to collect the information which it sends to the Raspberry Pi. Ra
 
 <a href="https://github.com/Vision-Paudel/RaspberryPi/blob/master/Circuit-Diagram.png"><img src="https://github.com/Vision-Paudel/RaspberryPi/blob/master/Circuit-Diagram.png" alt="Image could not be displayed" width="924" height="452" border="10" /></a>
 
-*Fig 1. Fritzing Diagram of Wiring between Arduino and Breadboard with DHT22 Temperature/ Humidity and Photoresistor Sensor*
+*Fig 1. Fritzing Diagram of Wiring between Arduino and Breadboard with the DHT22 Temperature/ Humidity and the Photoresistor Sensors*
